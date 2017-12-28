@@ -28,8 +28,14 @@ CREATE TABLE `business_tbl` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- ----------------------------
+-- Records of sequence
+-- ----------------------------
+INSERT INTO `sequence` VALUES ('business_tbl', '3', '1');
+
+-- ----------------------------
 -- Records of business_tbl
 -- ----------------------------
+INSERT INTO `sequence` VALUES ('business_tbl', '3', '1');
 INSERT INTO `business_tbl` VALUES ('1', '阿斯玛', '1', '1514442036', '251025241');
 INSERT INTO `business_tbl` VALUES ('2', '测试2', '0', '1514442036', '111111111');
 INSERT INTO `business_tbl` VALUES ('3', '测试3', '1', '1514442036', '222222222');
