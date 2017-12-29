@@ -1,0 +1,158 @@
+[ 2017-12-29T09:47:56+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+SQL: SHOW COLUMNS FROM `business_tbl` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `business_tbl` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001555s ]
+
+[ 2017-12-29T09:48:36+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-12-29T09:48:58+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+NOTIC: [2048] Non-static method Home\Model\PublicModel::think_select_one() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\DemoModel.class.php 第 12 行.
+
+[ 2017-12-29T09:49:41+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [2048] Non-static method Home\Model\PublicModel::think_select_one() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\DemoModel.class.php 第 12 行.
+
+[ 2017-12-29T09:51:31+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-12-29T09:51:32+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+
+[ 2017-12-29T09:52:53+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+NOTIC: [2048] Non-static method Home\Model\PublicModel::think_select_one() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\DemoModel.class.php 第 12 行.
+
+[ 2017-12-29T09:53:09+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [2048] Non-static method Home\Model\PublicModel::think_select_one() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\DemoModel.class.php 第 12 行.
+NOTIC: [2048] Non-static method Think\Model::table() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\PublicModel.class.php 第 29 行.
+
+[ 2017-12-29T09:54:56+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+NOTIC: [2048] Non-static method Home\Model\PublicModel::think_select_one() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\DemoModel.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `business_tbl` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `business_tbl` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2017-12-29T09:55:20+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [2048] Non-static method Home\Model\PublicModel::think_select_one() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\DemoModel.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `business_tbl` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `business_tbl` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2017-12-29T09:55:21+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [2048] Non-static method Home\Model\PublicModel::think_select_one() should not be called statically D:\phpStudy\WWW\asuma_db_demo\Application\Home\Model\DemoModel.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `business_tbl` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `business_tbl` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-12-29T09:56:12+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `business_tbl` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `business_tbl` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2017-12-29T09:57:12+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-12-29T09:57:35+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+
+[ 2017-12-29T10:01:56+08:00 ] ::1 /asuma_db_demo/index.php/Demo/testDemo1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `business_tbl` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `business_tbl` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+

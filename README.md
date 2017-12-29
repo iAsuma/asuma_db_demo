@@ -18,8 +18,8 @@ PublicModel 是继承ThinkPHP的Model类二次封装的数据库操作类，基�
 
 *  think_update 基于ThinkPHP的save方法封装的简单的更新操作
 *  think_insert 基于ThinkPHP的add方法封装的简单的插入操作
-*  think_delete 基于ThinkPHP的delete方法封装的简单的插入操作
+*  think_delete 基于ThinkPHP的delete方法封装的简单的删除操作
 *  native_execute 基于ThinkPHP的execute方法封装的方法，用于复杂的增删改
 
 ## 说明
-使用PublicModel类方法，必须不依赖数据的主键自增，所有数据的新增，主键id都是由单独的表sequence来维护，，所以使用PublicModel类方法得先执行sequence.sql文件中的所有SQL语句# asuma_db_demo
+重要！重要！重要！使用PublicModel类的方法，必须不依赖于数据的主键自增，所有数据的新增，主键id都是由单独的表sequence来维护，，所以使用PublicModel类方法得先执行sequence.sql文件中的所有SQL语句
