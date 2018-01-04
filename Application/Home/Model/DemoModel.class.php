@@ -2,8 +2,6 @@
 namespace Home\Model;
 class DemoModel extends PublicModel 
 {
-    protected $autoCheckFields = false; //虚拟模型关闭自动检测
-
     /**
      * 查询business_tbl表中的一条数据
      */
