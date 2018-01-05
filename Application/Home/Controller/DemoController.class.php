@@ -1,6 +1,10 @@
 <?php
 namespace Home\Controller;
 use Think\Controller;
+/**
+ * 测试使用PublicModel类
+ *  先执行demo.sql文件里的sql
+ */
 class DemoController extends Controller 
 {
     public function testDemo1()
